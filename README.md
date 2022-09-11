@@ -11,6 +11,17 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
+<!--- Socials --->
+
+## <p align="center"> Thank you for being here, feel free to connect: 😄 <p>
+
+<p align="center">
+  <a href="https://twitter.com/notShyam7"><img "alt="Twitter" title="Twitter" height="33" width="33" src="img/twitter.svg"></a>
+  <a href="https://www.linkedin.com/in/notshyam7/"><img alt="LinkedIn" title="LinkedIn" height="33" width="33" src="img/linkedin.svg"></a>
+</p>
+
+<br>
+
 - 👋 Hi, I’m @notShyam7
 - 👀 I’m interested in ML and AI
 - 🌱 I’m currently learning Python
@@ -20,8 +31,6 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ## GitHub Stats 📈
-
-<br>
 
 <!--- Languages Used --->
 
@@ -36,4 +45,10 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=notShyam7&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&fire=DB8C2F&stroke=DBDD13&dates=2BA6DD&sideLabels=FF2CE8&currStreakLabel=DD17DB&sideNums=DCDD22&border=46FFC9FB&currStreakNum=22DD7B)](https://git.io/streak-stats)
 
 <br>
+ 
+<!--- Visitors --->
+ 
+### Visitor's Count: 
+
+<img src="https://profile-counter.glitch.me/notShyam7/count.svg"/>
 
