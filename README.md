@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--- Socials --->
 
-### <p align="center"> Thank you for being here, feel free to connect: 😄 <p>
+### <p align="center"> Thank you for being here, feel free to connect: <img height="40" src="https://github.com/notShyam7/notShyam7/blob/main/img/kyubey.gif"/><p>
 
 <p align="center">
   <!--- 
@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-## GitHub Stats 📈
+## GitHub Stats <img height="70" src="https://github.com/notShyam7/notShyam7/blob/main/img/stats.gif"/>
 
 <!--- Languages Used --->
 
