@@ -10,14 +10,24 @@ You can click the Preview link to take a look at your changes.
 ## <p align="center"> "Life shrinks or expands in proportion to one's courage." 🦋<p>
 
 <br>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230EF746&size=30&center=true&width=1000&height=150&lines=Hello+there!;I+am+Ghanshyam+Suthar;I+am+a+ML+and+AI+Enthusiast)](https://git.io/typing-svg)
 
 <!--- Socials --->
 
-## <p align="center"> Thank you for being here, feel free to connect: 😄 <p>
+### <p align="center"> Thank you for being here, feel free to connect: 😄 <p>
 
 <p align="center">
+  <!--- 
   <a href="https://twitter.com/notShyam7"><img "alt="Twitter" title="Twitter" height="33" width="33" src="img/twitter.svg"></a>
   <a href="https://www.linkedin.com/in/notshyam7/"><img alt="LinkedIn" title="LinkedIn" height="33" width="33" src="img/linkedin.svg"></a>
+  --->
+  <a href="https://twitter.com/notShyam7" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/notshyam7/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
 </p>
 
 <br>
@@ -49,6 +59,8 @@ You can click the Preview link to take a look at your changes.
 <!--- Visitors --->
  
 ### Visitor's Count: 
+
+<img height="123" src="https://github.com/notShyam7/notShyam7/blob/main/img/visitors.gif"/>
 
 <img src="https://profile-counter.glitch.me/notShyam7/count.svg"/>
 
