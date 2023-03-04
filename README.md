@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=33FFE3&size=30&center=true&width=1000&height=150&lines=Hellooo!;I+am+Ghanshyam+Suthar;I'm+an+Aspiring+Data+Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&width=1000&height=150&lines=Hellooo!;I+am+Ghanshyam+Suthar;I'm+an+Aspiring+Data+Scientist)](https://git.io/typing-svg)
 
 <!--- Socials --->
 
