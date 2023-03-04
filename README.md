@@ -32,10 +32,6 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-- 🦋
-
-<br>
-
 ## GitHub Stats <img height="70" src="https://github.com/notShyam7/notShyam7/blob/main/img/stats.gif"/>
 
 <!--- Languages Used --->
