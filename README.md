@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230EF746&size=30&center=true&width=1000&height=150&lines=Hello+there!;I+am+Ghanshyam+Suthar;I+am+a+ML+and+AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230EF746&size=30&center=true&width=1000&height=150&lines=Hellooo!;I+am+Ghanshyam+Suthar;I'm+an+Aspiring+Data+Scientist)](https://git.io/typing-svg)
 
 <!--- Socials --->
 
@@ -32,11 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-- 👋 Hi, I’m @notShyam7
-- 👀 I’m interested in ML and AI
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🦋
 
 <br>
 
